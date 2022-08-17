@@ -1,0 +1,23 @@
+{
+  "createStudent": {
+    "id": 1,
+    "name": "mouni",
+    "age": 22,
+    "email": "mouni@gmail.com"
+
+  },
+  "UpdateStudent": {
+    "id": 1,
+    "name": "mounika",
+    "age": 22,
+    "email": "mouni@gmail.com"
+  },
+  "PostStudent": {
+    "id": 1,
+    "name": "mouni",
+    "age": 22,
+    "email": "mouni@gmail.com"
+
+  },
+
+}
